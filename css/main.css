@@ -1,0 +1,38 @@
+body {
+
+}
+
+.banner {
+	background: black;
+	height: 40px;
+	width: 100%;
+	margin: 0 0 0 0;
+	font-family: Arial;
+	font-size: 14px;
+	position: absolute;
+	padding: 0 0 0 0;
+	border: 0;
+}
+
+.leftMenu {
+	text-align: left;
+	display: inline;
+	color: white;
+	vertical-align: middle;
+	margin-left: 0px;
+}
+
+.leftMenu li {
+	padding:  5px 5px 5px 5px;	
+	display: inline;
+}
+
+.main {
+	text-align: center;
+
+}
+
+img {
+
+
+}
